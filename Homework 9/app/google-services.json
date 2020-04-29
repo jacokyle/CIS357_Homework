@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171118246671",
+    "firebase_url": "https://cis357-homework-8-98b39.firebaseio.com",
+    "project_id": "cis357-homework-8-98b39",
+    "storage_bucket": "cis357-homework-8-98b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171118246671:android:85c471c91052e9187f5c7a",
+        "android_client_info": {
+          "package_name": "edu.gvsu.cis.convcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171118246671-rinkenbokfpn8h6orm6mbiccldhga3ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHXAEqc6txTk01cSk8JrMbZVUSowzcmME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171118246671-rinkenbokfpn8h6orm6mbiccldhga3ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
